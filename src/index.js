@@ -1,1 +1,3 @@
-console.log("Hi");
+import { intializePage } from "./intializePage.js";
+
+intializePage();
