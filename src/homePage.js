@@ -1,4 +1,4 @@
-export function intializePage() {
+export function homePage() {
   const headline = document.createElement("h1");
   const image = document.createElement("img");
   const paragraph = document.createElement("p");
